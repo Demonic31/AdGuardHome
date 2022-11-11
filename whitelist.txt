@@ -1,1 +1,2 @@
-@@|www5.yggtorrent.fi^$important
+@@|www*.yggtorrent.fi^$important
+@@|www*.uptobox.com^$important
