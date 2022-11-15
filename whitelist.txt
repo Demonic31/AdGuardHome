@@ -1,4 +1,4 @@
-@@|*.yggtorrent.fi^$important
+@@|yggtorrent.fi^$important
 # @@|api.rewards.brave.com^$important (disabled)
 # @@|laptop-updates.brave.com^$important (disabled)
 # @@|rewards.brave.com^$important (disabled)
